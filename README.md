@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <img alt="HTML" src="https://img.shields.io/badge/Certificados25-orange">
+  <img alt="HTML" src="https://img.shields.io/badge/Certificados__Alura-orange">
  
-  <img alt="SASS" src="https://img.shields.io/badge/Alura25-%23blue">
+  <img alt="SASS" src="https://img.shields.io/badge/Designer-%23blue">
 
   <br>
   
